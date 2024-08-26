@@ -9,6 +9,12 @@
 - 📫 How to reach me: [itskp086@gmail.com](mailto:itskp086@gmail.com)
 - My development profile: [developer-patelkashyap](https://github.com/developer-patelkashyap)
 
+## Github Stats
+
+[![Years Badge](https://badges.pufler.dev/years/research-patelkashyap)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/research-patelkashyap)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/research-patelkashyap/badge-it)](https://badges.pufler.dev)
+
 ## Languages and Tools
 
 **Programming languages**
@@ -49,13 +55,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-00599C?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
-
-## Github Stats
-
-[![Years Badge](https://badges.pufler.dev/years/research-patelkashyap)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/research-patelkashyap)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/research-patelkashyap/badge-it)](https://badges.pufler.dev)
-
-## Last Starred Repo
-
-[![Last Stars Display](https://badges.pufler.dev/last-stars/research-patelkashyap?count=4&padding=15&perRow=2)](https://badges.pufler.dev)
