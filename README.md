@@ -58,4 +58,4 @@
 
 ## Last Starred Repo
 
-[![Last Stars Display](https://badges.pufler.dev/last-stars/research-patelkashyap?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+[![Last Stars Display](https://badges.pufler.dev/last-stars/research-patelkashyap?count=4&padding=15&perRow=2)](https://badges.pufler.dev)
