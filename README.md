@@ -9,12 +9,6 @@
 - 📫 How to reach me: [itskp086@gmail.com](mailto:itskp086@gmail.com)
 - My development profile: [developer-patelkashyap](https://github.com/developer-patelkashyap)
 
-## Github Stats
-
-[![Years Badge](https://badges.pufler.dev/years/research-patelkashyap)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/research-patelkashyap)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/research-patelkashyap/badge-it)](https://badges.pufler.dev)
-
 ## Languages and Tools
 
 **Programming languages**
